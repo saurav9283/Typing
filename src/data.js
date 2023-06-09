@@ -1,4 +1,4 @@
 export const getData = () =>
-  `Zartek designs and develops mobile and web apps that delight your users and grow your business. We work with individuals and organizations to create products and help them to market to the target audience.`.split(
+  `Asdf Jkl; Fdsa ;ljh Sfad Fads Sdaf Adsf Afsd Lk;j Jl;k Lj;k Asdsf Alks Klad Aslk Ajsk Df;k Lajd`.split(
     " "
   );

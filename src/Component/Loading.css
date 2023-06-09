@@ -6,6 +6,9 @@
     padding: 40px;
     border-radius: 5px;
     border: 1px solid #31363d;
+    background-color:#31363d;
+    border-style: solid;
+    border-color: #c9d1d9;
 }
 .typing_btn{
     width: 100%;
@@ -16,6 +19,8 @@
   border: 1px solid #31363d;
   outline: none;
   border-radius: 5px;
+  border-style: solid;
+border-color: #c9d1d9;
   color: #c9d1d9;
 }
 
@@ -23,3 +28,14 @@
     cursor: pointer;
     opacity: 0.8;
 }
+
+.submit-tag{
+    position: absolute;
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+    justify-content: center;
+    right:1em;
+    bottom:1em;
+    color: whitesmoke;
+  }
